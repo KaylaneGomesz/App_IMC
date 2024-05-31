@@ -1,5 +1,7 @@
 # Aplicativo de Cálculo de Índice de Massa Corporal (IMC)
 
+![](APLICATIVO.PNG)
+
 ## Descrição
 
 Este aplicativo foi desenvolvido para calcular o Índice de Massa Corporal (IMC) de um usuário com base em sua altura e peso. O IMC é uma medida usada para avaliar se uma pessoa está abaixo do peso, com peso saudável, com sobrepeso ou obesa.
