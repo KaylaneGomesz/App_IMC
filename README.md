@@ -1,6 +1,6 @@
 # Aplicativo de Cálculo de Índice de Massa Corporal (IMC)
 
-![](APLICATIVO.PNG)
+![](APLICATIVO_FOTO.PNG)
 
 ## Descrição
 
